@@ -10,6 +10,7 @@ A collection of links to images, videos, demos, and tools appropriate for use in
 ### Shadow Map Caching
 
 [<img src="./thumbnails/youtube-mvdTtl27TpM-946.jpg" width="128">](https://youtu.be/mvdTtl27TpM?t=901)
+[<img src="./thumbnails/youtube-mvdTtl27TpM-1004.jpg" width="128">](https://youtu.be/mvdTtl27TpM?t=1004)
 <br> Inside Call of Duty Warzone: Exclusive Tech Deep Dive / Behind The Scenes | 2020 -- *Digital Foundry* 
 
 ### Wavelet Compression
