@@ -61,3 +61,9 @@ A collection of links to images, videos, demos, and tools appropriate for use in
 [<img src="./thumbnails/youtube-mvdTtl27TpM-741.jpg" width="128">](https://youtu.be/mvdTtl27TpM?t=741)
 <br> Inside Call of Duty Warzone: Exclusive Tech Deep Dive / Behind The Scenes | 2020 -- *Digital Foundry* 
 
+
+## Advanced Computergraphics
+
+### L2 Cache
+
+[Optimizing Compute Shaders for L2 Locality using Thread-Group ID Swizzling](https://developer.nvidia.com/blog/optimizing-compute-shaders-for-l2-locality-using-thread-group-id-swizzling/) | 2020 -- *Louis Bavoil*
