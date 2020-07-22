@@ -78,6 +78,6 @@ A collection of links to images, videos, demos, and tools appropriate for use in
 
 ### Denoising
 
-[<img src="./thumbnails/youtube-FewqoJjHR0A-656" width="128">](https://youtu.be/FewqoJjHR0A?t=656)
+[<img src="./thumbnails/youtube-FewqoJjHR0A-656.jpg" width="128">](https://youtu.be/FewqoJjHR0A?t=656)
 [Real Time Path Tracing and Denoising in Quake II RTX](https://www.youtube.com/watch?v=FewqoJjHR0A) | 2019 -- *NvidiaGameWorks*
 
